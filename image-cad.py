@@ -203,4 +203,4 @@ def precision_edge_detection(input_path, image_debug=False):
 if __name__ == "__main__":
     # Replace "oip.jpg" with your source image filename.
     # Set image_debug=True to display intermediate results.
-    precision_edge_detection("oip.jpg", image_debug=True)
+    precision_edge_detection("src/oip.jpg", image_debug=True)
