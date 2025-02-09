@@ -1,0 +1,7 @@
+# Ignore all files in the src folder, except .gitkeep
+src/*
+!src/.gitkeep
+
+# Ignore all files in the outputs folder, except .gitkeep
+outputs/*
+!outputs/.gitkeep
